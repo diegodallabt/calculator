@@ -1,7 +1,7 @@
 # Calculadora v0.0.1
 ![HEADER](https://github.com/diegodallabt/calculator-v0.0.1/blob/main/images/header.png)
 
-Implementação de um projeto de calculadora utilizando `HTML/CSS (Bootstrap) e JavaScript` com intuito de aprender `JavaScript`.
+Implementação de um projeto de calculadora utilizando `HTML/CSS (Bootstrap) e Javascript` com intuito de aprender `Javascript`.
 
 # Funcionalidades
 Até o momento ela possui apenas funcionalidades simples implementadas:
