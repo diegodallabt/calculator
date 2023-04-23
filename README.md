@@ -1,5 +1,6 @@
 # Calculadora v0.0.1
 ![HEADER](https://github.com/diegodallabt/calculator-v0.0.1/blob/main/images/header.png)
+
 Implementação de um projeto de calculadora com intuito de aprender JavaScript.
 
 # Funcionalidades
